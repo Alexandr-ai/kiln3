@@ -29,7 +29,7 @@ ol, ul {
 }
 
 #header {
-    position: fexed;
+    /*position: fixed;*/
     top: 0;
     justify-content: space-around;
     align-items: center;
